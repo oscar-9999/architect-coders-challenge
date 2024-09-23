@@ -45,6 +45,8 @@
 -The project makes API calls to the Rick And Morty API
 -The project includes unit and integration tests using JUnit, Mockito and Turbine, as well as UI tests using Espresso
 
-![image](https://drive.google.com/file/d/1obkersUNmhg3B3x9wSo9KtFlGmUKHaAF/view?usp=drivesdk)
+![image](https://drive.google.com/uc?export=view&id=1obkersUNmhg3B3x9wSo9KtFlGmUKHaAF)
 
-![image](https://drive.google.com/file/d/1hMUqGfs_BbHcCXOUNBJ-V8Q3Q0ePkY8p/view?usp=drivesdk)
+![image](https://drive.google.com/uc?export=view&id=1hMUqGfs_BbHcCXOUNBJ-V8Q3Q0ePkY8p)
+
+
