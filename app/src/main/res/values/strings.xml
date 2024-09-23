@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Architect Coders Challenge</string>
+    <string name="character_list">Character List</string>
+    <string name="origin">Origin:</string>
+    <string name="status">Status:</string>
+    <string name="try_again">Try Again</string>
+    <string name="species">Species:</string>
+    <string name="gender">Gender:</string>
+    <string name="episodes">Episodes</string>
+    <string name="location">Location:</string>
+</resources>
